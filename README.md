@@ -43,7 +43,7 @@
 Убедитесь, что у вас установлены все необходимые библиотеки и зависимости.
 
 
-Запустите код последовательно, следуя инструкциям в ноутбуке.
+Запустите код последовательно, следуя инструкциям в ноутбуке. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nB22eElQYAp0pF3SWReZjVPSMHXk-9If?hl=ru#scrollTo=YG8JzyAaXi9P)
 
 
 ## Пример визуализации
